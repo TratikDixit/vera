@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vera/static/css/main.a997ff7e.chunk.css",
-    "main.js": "/vera/static/js/main.89054811.chunk.js",
-    "main.js.map": "/vera/static/js/main.89054811.chunk.js.map",
+    "main.js": "/vera/static/js/main.00e258f0.chunk.js",
+    "main.js.map": "/vera/static/js/main.00e258f0.chunk.js.map",
     "runtime-main.js": "/vera/static/js/runtime-main.32ad0097.js",
     "runtime-main.js.map": "/vera/static/js/runtime-main.32ad0097.js.map",
     "static/js/2.7628defe.chunk.js": "/vera/static/js/2.7628defe.chunk.js",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.32ad0097.js",
     "static/js/2.7628defe.chunk.js",
     "static/css/main.a997ff7e.chunk.css",
-    "static/js/main.89054811.chunk.js"
+    "static/js/main.00e258f0.chunk.js"
   ]
 }
