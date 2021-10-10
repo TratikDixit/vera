@@ -1,37 +1,21 @@
 {
   "files": {
-    "main.css": "/vera/static/css/main.a997ff7e.chunk.css",
-    "main.js": "/vera/static/js/main.00e258f0.chunk.js",
-    "main.js.map": "/vera/static/js/main.00e258f0.chunk.js.map",
+    "main.css": "/vera/static/css/main.874b2256.chunk.css",
+    "main.js": "/vera/static/js/main.9075b3e6.chunk.js",
+    "main.js.map": "/vera/static/js/main.9075b3e6.chunk.js.map",
     "runtime-main.js": "/vera/static/js/runtime-main.32ad0097.js",
     "runtime-main.js.map": "/vera/static/js/runtime-main.32ad0097.js.map",
-    "static/js/2.7628defe.chunk.js": "/vera/static/js/2.7628defe.chunk.js",
-    "static/js/2.7628defe.chunk.js.map": "/vera/static/js/2.7628defe.chunk.js.map",
+    "static/js/2.539999bb.chunk.js": "/vera/static/js/2.539999bb.chunk.js",
+    "static/js/2.539999bb.chunk.js.map": "/vera/static/js/2.539999bb.chunk.js.map",
     "index.html": "/vera/index.html",
-    "static/css/main.a997ff7e.chunk.css.map": "/vera/static/css/main.a997ff7e.chunk.css.map",
-    "static/js/2.7628defe.chunk.js.LICENSE.txt": "/vera/static/js/2.7628defe.chunk.js.LICENSE.txt",
-    "static/media/1.3e3ea4a6.png": "/vera/static/media/1.3e3ea4a6.png",
-    "static/media/2.e621d80d.png": "/vera/static/media/2.e621d80d.png",
-    "static/media/angel2.b6720638.png": "/vera/static/media/angel2.b6720638.png",
-    "static/media/angelo2.5eda20ac.png": "/vera/static/media/angelo2.5eda20ac.png",
-    "static/media/bird1.186b7618.gif": "/vera/static/media/bird1.186b7618.gif",
-    "static/media/bird2.0c4fcc00.gif": "/vera/static/media/bird2.0c4fcc00.gif",
-    "static/media/bird3.a27bcc02.gif": "/vera/static/media/bird3.a27bcc02.gif",
-    "static/media/colin2.8b6d3f38.png": "/vera/static/media/colin2.8b6d3f38.png",
-    "static/media/govern.e33e0ae0.gif": "/vera/static/media/govern.e33e0ae0.gif",
-    "static/media/jasmine2.74e1b5d7.png": "/vera/static/media/jasmine2.74e1b5d7.png",
-    "static/media/jodie2.58916468.png": "/vera/static/media/jodie2.58916468.png",
-    "static/media/join.e3314e88.png": "/vera/static/media/join.e3314e88.png",
-    "static/media/money.fd3eb27c.gif": "/vera/static/media/money.fd3eb27c.gif",
-    "static/media/steven2.25d46bbf.png": "/vera/static/media/steven2.25d46bbf.png",
-    "static/media/tracy2.16ef07ef.png": "/vera/static/media/tracy2.16ef07ef.png",
-    "static/media/tratik3.ecd45a2a.png": "/vera/static/media/tratik3.ecd45a2a.png",
-    "static/media/website_banner.fda2c60b.mp4": "/vera/static/media/website_banner.fda2c60b.mp4"
+    "static/css/main.874b2256.chunk.css.map": "/vera/static/css/main.874b2256.chunk.css.map",
+    "static/js/2.539999bb.chunk.js.LICENSE.txt": "/vera/static/js/2.539999bb.chunk.js.LICENSE.txt",
+    "static/media/Stock1.6fc7dc16.png": "/vera/static/media/Stock1.6fc7dc16.png"
   },
   "entrypoints": [
     "static/js/runtime-main.32ad0097.js",
-    "static/js/2.7628defe.chunk.js",
-    "static/css/main.a997ff7e.chunk.css",
-    "static/js/main.00e258f0.chunk.js"
+    "static/js/2.539999bb.chunk.js",
+    "static/css/main.874b2256.chunk.css",
+    "static/js/main.9075b3e6.chunk.js"
   ]
 }
